@@ -1,0 +1,6 @@
+{
+    "name": "spade-fs",
+    "version": "1.0.0",
+    "description": "Ponte de leitura/escrita pra Construtora do Spade editar os próprios arquivos da extensão, com backup e validação de sintaxe.",
+    "main": "index.js"
+}
