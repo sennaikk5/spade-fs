@@ -1,0 +1,6 @@
+{
+    "name": "spade-fs",
+    "version": "2.1.0",
+    "description": "Disco do Spade v8: guarda a Biblioteca (arquivos, notas, pastas), a memória, a Descrição e os backups, com escrita segura. Não edita mais o código da extensão.",
+    "main": "index.js"
+}
